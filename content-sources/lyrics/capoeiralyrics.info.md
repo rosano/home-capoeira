@@ -517,7 +517,7 @@ Pois ela ta sempre aqui
 Cada dia aprendo mais
 E’ melhor viver assim
 
-# A E I O U — Pretinho (HTTPS://ROSANO.CA/JT)
+# A E I O U — Pretinho
 
 **A E I O U** 
 **U O I E A** 
@@ -2159,7 +2159,7 @@ Pédindo a Deus proteção África
 
 video: http://www.youtube.com/embed/CbrjN2gIezQ?autoplay=0
 
-# AFRO BRASILEIRO — Pretinho (HTTPS://ROSANO.CA/JT)
+# AFRO BRASILEIRO — Pretinho
 
 E Auê, auê, êêê
 E Auê, auê, êêê
@@ -18481,7 +18481,7 @@ Aranda ie ie e, aranda ie ie a
 **A trovoada ronca no mar** 
 **Aranda ie ie e, aranda ie ie a**
 
-# HOJE EU TAVA PENSANDO EM CASA — Pretinho (HTTPS://ROSANO.CA/JT)
+# HOJE EU TAVA PENSANDO EM CASA — Pretinho
 
 (CORO)
 Hoje eu tava pensando em casa
