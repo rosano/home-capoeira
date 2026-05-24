@@ -19,6 +19,8 @@ jobs:
         run: bash setup.sh
       - name: Build
         run: hugo
+      - name: Index
+        run: npx -y pagefind --site public
       - uses: actions/configure-pages@v2
       - uses: actions/upload-pages-artifact@v3
         with:
